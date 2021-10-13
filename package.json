@@ -1,0 +1,17 @@
+{
+  "name": "anti-fortnite-bot",
+  "version": "1.0.0",
+  "description": "- Support will **NOT** be given on this bot.",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "ms": "^2.1.3",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Synapse#0100",
+  "license": "MIT"
+}
