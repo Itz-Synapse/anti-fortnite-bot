@@ -148,7 +148,7 @@ client.on('messageCreate', async (message) => {
     } else if (message.content.toLowerCase() === `${client.config.prefix}credits`) {
         const credits = new NoMoreFortnite.MessageEmbed()
             .setTitle("Credits")
-            .setDescription(`This bot was fully programmed by the one and only Synapse#0100 (<@272587483190132739>)`)
+            .setDescription(`This bot was fully programmed by the one\nand only [Synapse#0100](https://discord.gg/KnveAuW574) (<@272587483190132739>)`)
             .setColor('#FFFFFF')
             .setFooter("Made by Synapse#0100");
         await message.channel.send({ embeds: [credits] }).catch(e => { });
