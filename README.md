@@ -11,7 +11,7 @@
 - Run the `INSTALL.bat` file
 - Wait for it to close automatically
 - Create a new database and import the `install.sql` file into a new database.
-- Edit the `index.js` at the very top of the file to match your information
+- Edit the `main.js` at the very top of the file to match your information
 - Run the `START.bat` file
 
 ---
